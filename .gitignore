@@ -1,0 +1,19 @@
+# Output của simulator — không commit
+*.vvp
+*.vcd
+*.fst
+*.out
+sim.vvp
+
+# Thư mục build của tool
+obj_dir/
+*.qpf
+*.qsf
+db/
+incremental_db/
+
+# Hệ điều hành / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
